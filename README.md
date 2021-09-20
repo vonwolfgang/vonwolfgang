@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Omezkan&theme=radical&show_icons=true">
 
-# Hi, I'm Ömer. You can find things which are about different topics. If you are interested in AI, I recommended to check this account out😁 [Omezkan](https://github.com/Omezkan)
+# Hi, I'm Ömer. You can find things which are about different topics. If you are interested in AI, I recommended to check [Omezkan](https://github.com/Omezkan) account out😁
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omezkan" alt="Omezkan" /> </p>
